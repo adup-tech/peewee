@@ -66,7 +66,7 @@ setup(
     long_description=readme,
     author='Charles Leifer',
     author_email='coleifer@gmail.com',
-    url='http://github.com/coleifer/peewee/',
+    url='http://github.com/adup-tech/peewee/',
     packages=['playhouse'],
     py_modules=['peewee', 'pwiz'],
     classifiers=[
